@@ -8,7 +8,7 @@ follow proper course material and technique. They don't know from where and what
 To solve such type of confusion I'm putting some efforts towards it and trying to collect all those important material and 
 pdf notes at one place.Hope you will enjoy it. All the best.
 
-## IT company requirement (&#x1F4D8;) :
+## IT company requirements (&#x1F4D8;) :
     -Communication skills
     -Presentation skills
     -General Aptitude
