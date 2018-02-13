@@ -9,13 +9,13 @@ To solve such type of confusion I'm putting some efforts towards it and trying t
 pdf notes at one place.Hope you will enjoy it. All the best.
 
 ## IT company requirements (&#x1F4D8;) :
-- [Communication skills](docs/CONTRIBUTING.md)
-- [Presentation skills](docs/CONTRIBUTING.md)
-- [General Aptitude](docs/CONTRIBUTING.md)
-- [Coding in any Programming languge ](docs/CONTRIBUTING.md)
-- [Data structure and Algorithm](docs/CONTRIBUTING.md)
-- [Operating system](docs/CONTRIBUTING.md)
-- [Computer Network](docs/CONTRIBUTING.md)
-- [Database Management](docs/CONTRIBUTING.md)
-- [Basic Linux and Unix](docs/CONTRIBUTING.md)
+- [Communication skills](https://github.com/bhardwaj75/Campus-Placement-Preparation)
+- [Presentation skills](https://github.com/bhardwaj75/Campus-Placement-Preparation)
+- [General Aptitude](https://github.com/bhardwaj75/Campus-Placement-Preparation)
+- [Coding in any Programming languge ](https://github.com/bhardwaj75/Campus-Placement-Preparation)
+- [Data structure and Algorithm](https://github.com/bhardwaj75/Campus-Placement-Preparation)
+- [Operating system](https://github.com/bhardwaj75/Campus-Placement-Preparation)
+- [Computer Network](https://github.com/bhardwaj75/Campus-Placement-Preparation)
+- [Database Management](https://github.com/bhardwaj75/Campus-Placement-Preparation)
+- [Basic Linux and Unix](https://github.com/bhardwaj75/Campus-Placement-Preparation)
     
