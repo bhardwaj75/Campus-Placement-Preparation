@@ -33,6 +33,19 @@ pdf notes at one place.Hope you will enjoy it. All the best.
    - [AKAgarwalAptitude](https://www.youtube.com/watch?v=tqEIQJzY6co&list=PLY3DFj1jjj0URoyHOnxuau6l0EgzOtoHI)
    - [IndiaBix](https://www.indiabix.com/)
 # Coding in any Programming languge
+   - [Online compiler](https://ideone.com/)
    - [Java](https://www.youtube.com/watch?v=Hl-zzrqQoSE&list=PLFE2CE09D83EE3E28)
    - [Python](https://www.youtube.com/watch?v=HBxCHonP6Ro&list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
    - [Cpp](https://www.youtube.com/watch?v=tvC1WCdV1XU&list=PLAE85DE8440AA6B83)
+   - [Tutorial Point](http://www.tutorialspoint.com/)
+   - [STL](http://www.cplusplus.com/)
+# Data structure and Algorithm
+   - [Programming Interview](https://www.youtube.com/watch?v=NBcqBddFbZw&list=PLamzFoFxwoNjPfxzaWqs7cZGsPYy0x_gI)
+   - [GFG](https://www.geeksforgeeks.org/)
+   - [Tushor roy](https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw)
+   - [Gaurav sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw/playlists)
+   - [Advance Programming concept](https://www.youtube.com/watch?v=vZ2Wn6Ly8Ok&list=PL713C10F05D6BB7BF)
+   - [Data Structure tutorial] (https://www.hackerearth.com/practice/data-structures/arrays/1-d/tutorial/)
+   - [Algorithm Tutorial](https://www.hackerearth.com/practice/algorithms/searching/linear-search/tutorial/)
+   - [Advance Ds and Algo](https://e-maxx.ru/algo/)
+   
