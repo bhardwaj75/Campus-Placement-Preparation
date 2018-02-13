@@ -9,7 +9,7 @@ To solve such type of confusion I'm putting some efforts towards it and trying t
 pdf notes at one place.Hope you will enjoy it. All the best.
 
 # IT company requirements (&#x1F4D8;) :
-- [Communication skills](https://github.com/bhardwaj75/Campus-Placement-Preparation#Communication-skills)
+- [Communication skills](Campus-Placement-Preparation#Communication-skills)
 - [Presentation skills](https://github.com/bhardwaj75/Campus-Placement-Preparation#Presentation-skills)
 - [General Aptitude](https://github.com/bhardwaj75/Campus-Placement-Preparation)
 - [Coding in any Programming languge ](https://github.com/bhardwaj75/Campus-Placement-Preparation)
