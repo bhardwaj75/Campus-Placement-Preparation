@@ -21,3 +21,5 @@ pdf notes at one place.Hope you will enjoy it. All the best.
 
 
 # Communication skills
+  It contains list of video series about English and communication skills.
+   - [Soft skills and English](https://www.youtube.com/watch?v=fDRnKPyvR14&list=PLd3UqWTnYXOn4m3paVPj6JTCTESkltDao)
