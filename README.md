@@ -51,3 +51,6 @@ pdf notes at one place.Hope you will enjoy it. All the best.
    - [Miscellaneous-1](https://www.youtube.com/channel/UCICWIYEx2mo4wYZzLwJ7wVw/playlists), [Miscellaneous-2](https://www.youtube.com/user/mycodeschool)
    - [Online Platform to Practice-1](https://www.hackerearth.com/practice/),[Online Platform to Practice-2](https://www.codechef.com/problems/school)
    
+   
+       ## More Section Will be updated soon!!!!
+   
