@@ -38,7 +38,7 @@ pdf notes at one place.Hope you will enjoy it. All the best.
    - [Python](https://www.youtube.com/watch?v=HBxCHonP6Ro&list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
    - [Cpp](https://www.youtube.com/watch?v=tvC1WCdV1XU&list=PLAE85DE8440AA6B83)
    - [Tutorial Point](http://www.tutorialspoint.com/)
-   - [STL](http://www.cplusplus.com/)
+   - [STL](http://www.cplusplus.com/reference/)
 # Data structure and Algorithm
    - [Programming Interview](https://www.youtube.com/watch?v=NBcqBddFbZw&list=PLamzFoFxwoNjPfxzaWqs7cZGsPYy0x_gI)
    - [GFG](https://www.geeksforgeeks.org/)
