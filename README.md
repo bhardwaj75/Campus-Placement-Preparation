@@ -11,9 +11,9 @@ pdf notes at one place.Hope you will enjoy it. All the best.
 # IT company requirements (&#x1F4D8;) :
 - [Communication skills](https://github.com/bhardwaj75/Campus-Placement-Preparation#communication-skills)
 - [Presentation skills](https://github.com/bhardwaj75/Campus-Placement-Preparation#presentation-skills)
-- [General Aptitude](https://github.com/bhardwaj75/Campus-Placement-Preparation#General-Aptitude)
-- [Coding in any Programming languge ](https://github.com/bhardwaj75/Campus-Placement-Preparation#Coding-in-any-Programming-languge)
-- [Data structure and Algorithm](https://github.com/bhardwaj75/Campus-Placement-Preparation#Data-structure-and-Algorithm)
+- [General Aptitude](https://github.com/bhardwaj75/Campus-Placement-Preparation#general-aptitude)
+- [Coding in any Programming languge ](https://github.com/bhardwaj75/Campus-Placement-Preparation#coding-in-any-programming-languge)
+- [Data structure and Algorithm](https://github.com/bhardwaj75/Campus-Placement-Preparation#data-structure-and-algorithm)
 - [Operating system](https://github.com/bhardwaj75/Campus-Placement-Preparation)
 - [Computer Network](https://github.com/bhardwaj75/Campus-Placement-Preparation)
 - [Database Management](https://github.com/bhardwaj75/Campus-Placement-Preparation)
