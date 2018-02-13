@@ -45,7 +45,7 @@ pdf notes at one place.Hope you will enjoy it. All the best.
    - [Tushor roy](https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw)
    - [Gaurav sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw/playlists)
    - [Advance Programming concept](https://www.youtube.com/watch?v=vZ2Wn6Ly8Ok&list=PL713C10F05D6BB7BF)
-   - [Data Structure tutorial] (https://www.hackerearth.com/practice/data-structures/arrays/1-d/tutorial/)
+   - [Data Structure tutorial](https://www.hackerearth.com/practice/data-structures/arrays/1-d/tutorial/)
    - [Algorithm Tutorial](https://www.hackerearth.com/practice/algorithms/searching/linear-search/tutorial/)
    - [Advance Ds and Algo](https://e-maxx.ru/algo/)
    
