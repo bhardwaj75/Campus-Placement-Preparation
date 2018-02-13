@@ -9,13 +9,13 @@ To solve such type of confusion I'm putting some efforts towards it and trying t
 pdf notes at one place.Hope you will enjoy it. All the best.
 
 ## IT company requirements (&#x1F4D8;) :
-    -Communication skills
-    -Presentation skills
-    -General Aptitude
-    -Coding in any Programming languge 
-    -Data structure and Algorithm
-    -Operating system
-    -Computer Network
-    -Database Management
-    -Basic Linux and Unix
+- [Communication skills](docs/CONTRIBUTING.md)
+- [Presentation skills](docs/CONTRIBUTING.md)
+- [General Aptitude](docs/CONTRIBUTING.md)
+- [Coding in any Programming languge ](docs/CONTRIBUTING.md)
+- [Data structure and Algorithm](docs/CONTRIBUTING.md)
+- [Operating system](docs/CONTRIBUTING.md)
+- [Computer Network](docs/CONTRIBUTING.md)
+- [Database Management](docs/CONTRIBUTING.md)
+- [Basic Linux and Unix](docs/CONTRIBUTING.md)
     
