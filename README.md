@@ -49,7 +49,7 @@ pdf notes at one place.Hope you will enjoy it. All the best.
    - [Algorithm Tutorial](https://www.hackerearth.com/practice/algorithms/searching/linear-search/tutorial/)
    - [Advance Ds and Algo](https://e-maxx.ru/algo/)
    - [Miscellaneous-1](https://www.youtube.com/channel/UCICWIYEx2mo4wYZzLwJ7wVw/playlists), [Miscellaneous-2](https://www.youtube.com/user/mycodeschool)
-   - [Online Platform to Practice-1](https://www.hackerearth.com/practice/),[Online Platform to Practice-2],(https://www.interviewbit.com/)[Online Platform to Practice-3](https://www.codechef.com/problems/school)
+   - [Online Platform to Practice-1](https://www.hackerearth.com/practice/),[Online Platform to Practice-2](https://www.interviewbit.com/),[Online Platform to Practice-3](https://www.codechef.com/problems/school)
    
    
        ## More Section Will be updated soon!!!!
