@@ -18,6 +18,7 @@ pdf notes at one place.Hope you will enjoy it. All the best.
 - [Computer Network](https://github.com/bhardwaj75/Campus-Placement-Preparation)
 - [Database Management](https://github.com/bhardwaj75/Campus-Placement-Preparation)
 - [Basic Linux and Unix](https://github.com/bhardwaj75/Campus-Placement-Preparation)
+- [System or Pattern Design](https://github.com/bhardwaj75/Campus-Placement-Preparation)
 
 
 # Communication skills
