@@ -50,6 +50,9 @@ pdf notes at one place.Hope you will enjoy it. All the best.
    - [Advance Ds and Algo](https://e-maxx.ru/algo/)
    - [Miscellaneous-1](https://www.youtube.com/channel/UCICWIYEx2mo4wYZzLwJ7wVw/playlists), [Miscellaneous-2](https://www.youtube.com/user/mycodeschool)
    - [Online Platform to Practice-1](https://www.hackerearth.com/practice/),[Online Platform to Practice-2](https://www.interviewbit.com/),[Online Platform to Practice-3](https://www.codechef.com/problems/school)
+
+# Operating system
+   - [Link-1](https://www.youtube.com/watch?v=2i2N_Qo_FyM&list=PLEbnTDJUr_If_BnzJkkN_J0Tl3iXTL8vq), [Link-2](https://www.youtube.com/watch?v=nZRqPctQf8U&list=PLTZbNwgO5ebqnympIYe2GX4hjjsS9Psdm)
    
    
        ## More Section Will be updated soon!!!!
