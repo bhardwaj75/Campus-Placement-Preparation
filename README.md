@@ -14,11 +14,11 @@ pdf notes at one place.Hope you will enjoy it. All the best.
 - [General Aptitude](https://github.com/bhardwaj75/Campus-Placement-Preparation#general-aptitude)
 - [Coding in any Programming languge ](https://github.com/bhardwaj75/Campus-Placement-Preparation#coding-in-any-programming-languge)
 - [Data structure and Algorithm](https://github.com/bhardwaj75/Campus-Placement-Preparation#data-structure-and-algorithm)
-- [Operating system](https://github.com/bhardwaj75/Campus-Placement-Preparation)
+- [Operating system](https://github.com/bhardwaj75/Campus-Placement-Preparation#operating-system)
+- [Database Management](https://github.com/bhardwaj75/Campus-Placement-Preparation#database-management)
 - [Computer Network](https://github.com/bhardwaj75/Campus-Placement-Preparation)
-- [Database Management](https://github.com/bhardwaj75/Campus-Placement-Preparation)
 - [Basic Linux and Unix](https://github.com/bhardwaj75/Campus-Placement-Preparation)
-- [System or Pattern Design](https://github.com/bhardwaj75/Campus-Placement-Preparation)
+- [System or Pattern Design](https://github.com/bhardwaj75/Campus-Placement-Preparation) (If you have some industry experience)
 
 
 # Communication skills
@@ -54,6 +54,13 @@ pdf notes at one place.Hope you will enjoy it. All the best.
 
 # Operating system
    - [Link-1](https://www.youtube.com/watch?v=2i2N_Qo_FyM&list=PLEbnTDJUr_If_BnzJkkN_J0Tl3iXTL8vq), [Link-2](https://www.youtube.com/watch?v=nZRqPctQf8U&list=PLTZbNwgO5ebqnympIYe2GX4hjjsS9Psdm), [Hand written pdf](https://drive.google.com/file/d/1vF4gEE35remfvht_NYNCbsqhFNH1Opba/view?usp=sharing)
+   
+# Database Management
+   - [Link-1](https://www.youtube.com/watch?v=1057YmExS-I&list=PLEbnTDJUr_Ic_9b4PcKmlae41cyxEefot),[Link-2](https://www.youtube.com/watch?v=fvPddKyHxpQ&list=PL6n9fhu94yhXcztdLO7i6mdyaegC8CJwR), [Link-3](https://www.youtube.com/watch?v=iuwIxX1523s&list=PLy6I8jhggOX47RFnEaMSxrrBBIsUqkW64)
+
+
+
+
    
    
        ## More Section Will be updated soon!!!!
