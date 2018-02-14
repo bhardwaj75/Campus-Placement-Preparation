@@ -52,8 +52,9 @@ pdf notes at one place.Hope you will enjoy it. All the best.
    - [Online Platform to Practice-1](https://www.hackerearth.com/practice/),[Online Platform to Practice-2](https://www.interviewbit.com/),[Online Platform to Practice-3](https://www.codechef.com/problems/school)
 
 # Operating system
-   - [Link-1](https://www.youtube.com/watch?v=2i2N_Qo_FyM&list=PLEbnTDJUr_If_BnzJkkN_J0Tl3iXTL8vq), [Link-2](https://www.youtube.com/watch?v=nZRqPctQf8U&list=PLTZbNwgO5ebqnympIYe2GX4hjjsS9Psdm)
+   - [Link-1](https://www.youtube.com/watch?v=2i2N_Qo_FyM&list=PLEbnTDJUr_If_BnzJkkN_J0Tl3iXTL8vq), [Link-2](https://www.youtube.com/watch?v=nZRqPctQf8U&list=PLTZbNwgO5ebqnympIYe2GX4hjjsS9Psdm), [Hand written pdf](https://drive.google.com/file/d/1vF4gEE35remfvht_NYNCbsqhFNH1Opba/view?usp=sharing)
    
    
        ## More Section Will be updated soon!!!!
+       ## For any querry contact me on +918414978582, diwakarb347@gmail.com
    
