@@ -8,8 +8,6 @@ int main() {
     int testcases;
     cin>>testcases;
     while (testcases--) {
-
-
         int n;
         map<int,int>mp;
         map<int,int>val;
