@@ -1,1 +1,1 @@
-priority_queue<int, vector<int>, compare> pq(arr.begin(), arr.end());
+priority_queue<int, vector<int>, decltype(&compare)>pq(compare);
