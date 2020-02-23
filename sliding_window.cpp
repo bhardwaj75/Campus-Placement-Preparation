@@ -3,6 +3,33 @@
 
 // 3 4 1 2 7 5 8
 using namespace std;
+vector<int> Solution::slidingMaximum2(const vector<int> &A, int B) {
+    
+    deque<int>dq;
+    for(int i=0;i<B;i++){
+        while(!dq.empty() and A[dq.back()]<A[i]){
+            dq.pop_back();
+        }
+        dq.push_back(i);
+    }
+    vector<int>ans;
+    ans.push_back(A[dq.front()]);
+    
+    for(int i=B;i<A.size();i++){
+        
+        while(!dq.empty() and i-dq.front()>=B){
+            dq.pop_front();
+        }
+        
+        while(!dq.empty() and A[dq.back()]<A[i]){
+            dq.pop_back();
+        }
+        dq.push_back(i);
+        ans.push_back(A[dq.front()]);
+    }
+    return ans;
+    
+}
 
 
 vector<int> maxSlidingWindow(vector<int>& nums, int k) {
