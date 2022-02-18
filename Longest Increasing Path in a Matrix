@@ -1,0 +1,62 @@
+
+/*https://leetcode.com/problems/longest-increasing-path-in-a-matrix/*/
+class Solution {
+public:
+    
+    int dfs(vector<vector<int>>& matrix,vector<vector<int>>& dp, int x, int y, int r, int c, int prevval){
+        
+       
+        if(x < 0 or x>=r or y< 0 or y>=c or matrix[x][y]<=prevval){
+            return 0;
+        }
+        
+        int res = 1;
+        
+        res = max(res, 1+dfs(matrix,dp,x+1,y,r,c,matrix[x][y]));
+        res = max(res, 1+dfs(matrix,dp,x-1,y,r,c,matrix[x][y]));
+        res = max(res, 1+dfs(matrix,dp,x,y+1,r,c,matrix[x][y]));
+        res = max(res, 1+dfs(matrix,dp,x,y-1,r,c,matrix[x][y]));
+        
+        dp[x][y] = res;
+        
+        return res;
+        
+    }
+    int longestIncreasingPath(vector<vector<int>>& matrix) {
+        
+        int row = matrix.size();
+        int col = matrix[0].size();
+        
+        vector<vector<int>>dp(row, vector<int>(col,-1));
+        
+        for(int i = 0; i<row; i++){
+            
+            for(int j = 0; j<col; j++){
+                
+                if(dp[i][j]==-1){
+                    
+                    dfs(matrix,dp,i,j,row,col, 0);
+                    for(int i = 0; i<row; i++){
+            
+            for(int j = 0; j<col; j++){
+                // ans = max(ans,dp[i][j]);
+                cout<<dp[i][j]<<" ";
+            }
+            cout<<endl;
+        }
+                }
+            }
+        }
+        int ans = 1;
+        for(int i = 0; i<row; i++){
+            
+            for(int j = 0; j<col; j++){
+                ans = max(ans,dp[i][j]);
+                cout<<dp[i][j]<<" ";
+            }
+            cout<<endl;
+        }
+       return ans ;
+        
+    }
+};
