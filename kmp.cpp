@@ -42,7 +42,7 @@ void calculateLpsArray(vector<int>&lps,string pattern){
 	int i = 0;
 	int j = 1;
 
-	while(i<lps.size()){
+	while(j<pattern.size()){
 
 
 		if(pattern[i]==pattern[j]){
