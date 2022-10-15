@@ -70,5 +70,5 @@ pdf notes at one place.Hope you will enjoy it. All the best.
    
    
        ## More Section Will be updated soon!!!!
-       ## For any querry contact me on +918414978582, diwakarb347@gmail.com
+       ## For any querry contact me on diwakarb347@gmail.com
    
